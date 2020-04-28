@@ -9,7 +9,7 @@ etc.
 
 
 Flot plot
-![image](https://user-images.githubusercontent.com/60900143/80474473-c9d3b680-8947-11ea-949f-6b70264e9edc.png)
+![image](https://user-images.githubusercontent.com/60900143/80474990-7e6dd800-8948-11ea-8ea9-9ee43e9ab953.png)
 
 
 Flottere plot
