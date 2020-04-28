@@ -1,6 +1,26 @@
-# HOLA
+# COVID-19 Germany
 
-hsfgusfg 
+This page will investigate the spread of COVID-19 in Germany.
+The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
+
+etc.
+etc.
+etc.
+
+
+Flot plot
+
+Flottere plot
+
+Uhh,-nu-bliver-det-lækkert-plot
+
+
+##"WOW!! HOLD NU OP" siger Sune om dette plot
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheisGregersen/TheisGregersen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
