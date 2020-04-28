@@ -9,6 +9,8 @@ etc.
 
 
 Flot plot
+![image](https://user-images.githubusercontent.com/60900143/80474473-c9d3b680-8947-11ea-949f-6b70264e9edc.png)
+
 
 Flottere plot
 
