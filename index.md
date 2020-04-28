@@ -18,6 +18,8 @@ Uhh,-nu-bliver-det-lækkert-plot
 ## "WOW!! HOLD NU OP" siger Sune om dette plot
 
 
+![MEGA FEED](https://github.com/fertin/Random/blob/master/Assignment2P3.gif?fbclid=IwAR1XvovCVwFiMBrr2b-X-YPQyQpec-bzlBPhB8W44WzQpMigvvyP-9Nlkqo)Welcome to the TheisGregersen.github.io wiki!
+
 
 
 
