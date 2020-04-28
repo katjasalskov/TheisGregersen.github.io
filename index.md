@@ -21,3 +21,5 @@ Uhh,-nu-bliver-det-lækkert-plot
 
 
 ![MEGA FEED](https://github.com/fertin/Random/blob/master/Assignment2P3.gif?fbclid=IwAR1XvovCVwFiMBrr2b-X-YPQyQpec-bzlBPhB8W44WzQpMigvvyP-9Nlkqo)Welcome to the TheisGregersen.github.io wiki!
+
+https://raw.githubusercontent.com/fertin/Random/master/Assignment2P3.gif
