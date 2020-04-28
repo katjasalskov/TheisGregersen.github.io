@@ -25,35 +25,8 @@ Uhh,-nu-bliver-det-lækkert-plot
 https://raw.githubusercontent.com/fertin/Random/master/Assignment2P3.gif
 
 
-{
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
-    "import numpy as np\n",
-    "from sklearn.tree import DecisionTreeClassifier # Import Decision Tree Classifier\n",
-    "from sklearn.model_selection import train_test_split # Import train_test_split function\n",
-    "from sklearn import metrics #Import scikit-learn metrics module for accuracy calculation\n",
-    "from sklearn.ensemble import RandomForestClassifier\n",
-    "from sklearn.datasets import make_classification\n",
-    "from sklearn.metrics import confusion_matrix,classification_report\n",
-    "from sklearn.metrics import confusion_matrix, classification_report\n",
-    "from sklearn.model_selection import KFold\n",
-    "import datetime as dt\n",
-    "import warnings\n",
-    "from random import sample \n",
-    "warnings.filterwarnings('ignore')\n",
-    "from folium.plugins import MarkerCluster\n",
-    "from folium.plugins import FastMarkerCluster\n",
-    "\n",
-    "import random\n",
-    "import seaborn as sns\n",
-    "import matplotlib.pyplot as plt\n",
-    "%matplotlib inline\n",
-    "import folium\n",
-    "from folium.plugins import HeatMap\n",
-    "from folium import plugins\n"
-   ]
-  }
+```
+if (2+2==4){
+  return true
+}
+```
