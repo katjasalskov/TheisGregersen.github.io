@@ -19,6 +19,7 @@ Uhh,-nu-bliver-det-lækkert-plot
 
 ## "WOW!! HOLD NU OP" siger Sune om dette plot
 
+<iframe src="/CasesPer100K.html" sandbox="allow-same-origin allow-scripts" width="100%" height="500" scrolling="no" seamless="seamless" frameborder="0"> </iframe>
 
 ![MEGA FEED](https://github.com/fertin/Random/blob/master/Assignment2P3.gif?fbclid=IwAR1XvovCVwFiMBrr2b-X-YPQyQpec-bzlBPhB8W44WzQpMigvvyP-9Nlkqo)Welcome to the TheisGregersen.github.io wiki!
 
