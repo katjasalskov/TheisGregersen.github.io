@@ -25,4 +25,4 @@ Uhh,-nu-bliver-det-lækkert-plot
 
 https://raw.githubusercontent.com/fertin/Random/master/Assignment2P3.gif
 
-
+hejeh
